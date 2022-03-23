@@ -1,5 +1,7 @@
 {
+  "exclude": ["node_modules"],
   "compilerOptions": {
+    
     "target": "es5",
     "lib": [
       "dom",
